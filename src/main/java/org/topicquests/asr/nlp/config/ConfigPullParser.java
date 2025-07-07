@@ -15,7 +15,6 @@
  */
 package org.topicquests.asr.nlp.config;
 
-import org.topicquests.support.util.ConfigurationHelper;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
