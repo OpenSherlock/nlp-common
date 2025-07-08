@@ -5,6 +5,8 @@
  */
 package org.topicquests.asr.nlp.api;
 
+import org.topicquests.support.api.IResult;
+
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 

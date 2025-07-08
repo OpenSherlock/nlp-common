@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions
  * and limitations under the License.
  */
-package org.topicquests.asr.nlp.uitil;
+package org.topicquests.support;
 
-import org.topicquests.asr.nlp.api.IResult;
+import org.topicquests.support.api.IResult;
 
 /**
  * 
