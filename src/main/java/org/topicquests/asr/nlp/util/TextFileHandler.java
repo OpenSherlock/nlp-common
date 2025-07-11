@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions
  * and limitations under the License.
  */
-package org.topicquests.asr.nlp.uitil;
+package org.topicquests.asr.nlp.util;
 
 import javax.swing.*;
 import java.awt.*;
